@@ -1,0 +1,26 @@
+{
+  "name": "json_fake_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jggutierrez-AK/json_fake_server.git"
+  },
+  "author": "gerardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jggutierrez-AK/json_fake_server/issues"
+  },
+  "homepage": "https://github.com/Jggutierrez-AK/json_fake_server#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  },
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  }
+}
